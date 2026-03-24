@@ -19,7 +19,7 @@
   - BMI
   - Diabetes Pedigree Function
   - Age
--Target:
+  - Outcome:
     - 0 → Non-Diabetic
     - 1 → Diabetic
 
