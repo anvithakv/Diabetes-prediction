@@ -46,7 +46,7 @@
 - NumPy
 - Pandas
 - Scikit-learn
-- 
+
 📈 Results
 - Training Accuracy: ~75–85%
 - Testing Accuracy: ~70–80%
