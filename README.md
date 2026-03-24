@@ -25,20 +25,30 @@
 
 ⚙️ Workflow
 1. Data Loading
-- Dataset loaded using Pandas
-- Checked for missing values
+  - Dataset loaded using Pandas
+  - Checked for missing values
 2. Data Preprocessing
-- Split into Features (X) and Labels (y)
+  - Split into Features (X) and Labels (y)
 3. Train-Test Split
-- 80% training data
-- 20% testing data
+  - 80% training data
+  - 20% testing data
 4. Model Training
-- Logistic Regression model used
+  - Logistic Regression model used
 5. Evaluation
-- Accuracy calculated on training and testing data
+  - Accuracy calculated on training and testing data
 6 Prediction System
-- Input patient data
-- Model predicts diabetic or not
+  - Input patient data
+  - Model predicts diabetic or not
 
 🧠 Technologies Used
+
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- 
+📈 Results
+- Training Accuracy: ~75–85%
+- Testing Accuracy: ~70–80%
+
 
