@@ -20,8 +20,8 @@
   - Diabetes Pedigree Function
   - Age
 -Target:
-  - 0 → Non-Diabetic
-  - 1 → Diabetic
+   - 0 → Non-Diabetic
+   - 1 → Diabetic
 
 ⚙️ Workflow
 1. Data Loading
