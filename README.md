@@ -24,17 +24,17 @@
   - 1 → Diabetic
 
 ⚙️ Workflow
-1 Data Loading
+1. Data Loading
 - Dataset loaded using Pandas
 - Checked for missing values
-2 Data Preprocessing
+2. Data Preprocessing
 - Split into Features (X) and Labels (y)
-3 Train-Test Split
+3. Train-Test Split
 - 80% training data
 - 20% testing data
-4 Model Training
+4. Model Training
 - Logistic Regression model used
-5 Evaluation
+5. Evaluation
 - Accuracy calculated on training and testing data
 6 Prediction System
 - Input patient data
