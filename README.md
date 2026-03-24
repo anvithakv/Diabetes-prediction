@@ -11,14 +11,14 @@
  📊 Dataset Information
  
 - Features include:
- - Pregnancies
- - Glucose
- - Blood Pressure
- - Skin Thickness
- - Insulin
- - BMI
-- Diabetes Pedigree Function
-- Age
+  - Pregnancies
+  - Glucose
+  - Blood Pressure
+  - Skin Thickness
+  - Insulin
+  - BMI
+  - Diabetes Pedigree Function
+  - Age
 -Target:
   - 0 → Non-Diabetic
   - 1 → Diabetic
