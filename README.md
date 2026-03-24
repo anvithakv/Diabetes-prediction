@@ -36,7 +36,7 @@
   - Logistic Regression model used
 5. Evaluation
   - Accuracy calculated on training and testing data
-6 Prediction System
+6. Prediction System
   - Input patient data
   - Model predicts diabetic or not
 
